@@ -1,3 +1,8 @@
+# Campus Open Link
+
+Setzt die BLE-Einstellungen für die Verwendung im Campus auf **Open Link** (wie in [pxt.json](pxt.json) konfiguriert).
+
+Dadurch wird die Bluetooth Verbindung des Calliope mini auf `SECURITY_MODE_ENCRYPTION_OPEN_LINK` gesetzt, sodass die Verbindung ohne Kopplung (Pairing) aufgebaut werden kann.
 
 > Open this page at [https://amerlander.github.io/campus-ble-open-link/](https://amerlander.github.io/campus-ble-open-link/)
 
